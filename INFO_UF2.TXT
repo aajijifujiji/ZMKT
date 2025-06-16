@@ -1,0 +1,4 @@
+UF2 Bootloader 0.2.11 lib/nrfx (v1.1.0-1-g096e770) lib/tinyusb (legacy-755-g55874813) s140 6.1.1
+Model: Nordic nRF52840 DK
+Board-ID: nRF52840-pca10056-v1
+Date: May  4 2019
